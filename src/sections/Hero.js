@@ -15,7 +15,7 @@ export function createHero() {
       </p>
       <div class="hero-actions">
         <a href="#projects" class="hero-btn hero-btn-primary">Lihat Proyek</a>
-        <a href="${BASE_URL}docs/CV_Rhio_Bagus_Sadewo.pdf" class="hero-btn hero-btn-outline" download>Download CV</a>
+        <a href="${BASE_URL}/docs/CV_RHIO_BAGUS_SADEWO.pdf" class="hero-btn hero-btn-outline" download>Download CV</a>
       </div>
     </div>
   `;
