@@ -6,7 +6,7 @@ function openLightbox(src, alt) {
   overlay.className = "lightbox";
   overlay.innerHTML = `
     <button class="lightbox-close" aria-label="Tutup">✕</button>
-    <img src="${BASE_URL}${p.image}" alt="${alt}" />
+    <img src="${BASE_URL}${p.image}" "${src}" alt="${alt}" />
   `;
   overlay.addEventListener("click", (e) => {
     if (e.target === overlay || e.target.classList.contains("lightbox-close")) {
