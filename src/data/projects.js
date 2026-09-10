@@ -22,4 +22,12 @@ export const projects = [
       "Eksplorasi desain antarmuka ecommerce modern dengan fokus pada pengalaman pengguna premium.",
     tags: ["Illustrator", "Photoshop", "Branding"],
   },
+  {
+      title: "Phishguard",
+    image: "images/phishguard.png",
+    description:
+      "Membantu anda mengidentifikasi dan mencegah serangan phishing melalui analisis URL dan konten situs web.",
+    tags: ["Laravel 13", "MySQL", "Tailwind", "Chart.js"],
+    githubLink: "https://github.com/AnTaraXia7742/phishguard",
+  },
 ];
