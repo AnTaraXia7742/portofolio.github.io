@@ -19,7 +19,7 @@ export const projects = [
     title: "Concept Poster Nike",
     image: "images/nike.png",
     description:
-      "Eksplorasi desain antarmuka ecommerce modern dengan fokus pada pengalaman pengguna premium.",
+      "Eksplorasi poster konseptual Nike Blazer Mid 77 dengan pendekatan vintage editorial, memadukan tipografi klasik, tekstur distressed, dan komposisi visual yang terinspirasi dari budaya sneaker..",
     tags: ["Illustrator", "Photoshop", "Branding"],
   },
   {
