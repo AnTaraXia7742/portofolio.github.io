@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: "Finora",
-    image: "public/images/finora.png",
+    image: "images/finora.png",
     description:
       "Smart personal finance management platform untuk melacak pemasukan, pengeluaran, dan insight keuangan.",
     tags: ["Laravel 13", "MySQL", "Tailwind", "Chart.js"],
@@ -10,15 +10,15 @@ export const projects = [
   },
   {
     title: "DoFit",
-    image: "public/images/dofit.png",
-    preview: "public/images/dofit.png",
+    image: "images/dofit.png",
+    preview: "images/dofit.png",
     description:
       "Konsep aplikasi fitness untuk pelacakan latihan dan monitoring aktivitas pengguna.",
     tags: ["Flutter", "Firebase", "UI/UX"],
   },
   {
     title: "Concept Poster Nike",
-    image: "public/images/nike.png",
+    image: "images/nike.png",
     description:
       "Eksplorasi desain antarmuka ecommerce modern dengan fokus pada pengalaman pengguna premium.",
     tags: ["Illustrator", "Photoshop", "Branding"],
