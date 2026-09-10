@@ -12,7 +12,7 @@ export const projects = [
     title: "DoFit",
     image: "images/dofit.png",
     description:
-      "Konsep aplikasi fitness untuk pelacakan latihan dan monitoring aktivitas pengguna.",
+      "Konsep aplikasi manajemen diet/makanan sehat, untuk aktivitas pengguna dalam menentukan kalori.",
     tags: ["Flutter", "Firebase", "UI/UX"],
   },
   {
